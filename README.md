@@ -12,6 +12,6 @@
 - Display de 7 segmentos: Conta os bytes em hexadecimal de 0 até 16.
 - Leds verdes: acendem quando o display de 7 segmentos chega em 16Bytes e 32Bytes.
 ## Código:
-[codigo.ino](./codigo.ino)
+[contador.ino](./contador.ino)
 ## Funcionamento do Circuito no YouTube:
 [Contador de bytes (0 a 32)](https://www.youtube.com/watch?v=OxpCxAsSlW0)
