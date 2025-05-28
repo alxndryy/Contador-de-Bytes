@@ -8,9 +8,9 @@
 6. 5x Resistores de 330ohms.
 7. 18x Jumpers (Macho).
 ## Como funciona?
-  Leds vermelhos: Contam nibbles em binário ('00' significa que chegou em 4Bits).
-  Display de 7 segmentos: Conta os bytes em hexadecimal de 0 até 16.
-  Leds verdes: acendem quando o display de 7 segmentos chega em 16Bytes e 32Bytes.
+- Leds vermelhos: Contam *nibbles* em binário ('00' significa que chegou em 4Bits).
+- Display de 7 segmentos: Conta os bytes em hexadecimal de 0 até 16.
+- Leds verdes: acendem quando o display de 7 segmentos chega em 16Bytes e 32Bytes.
 ## Código:
 [codigo.ino](./codigo.ino)
 ## Funcionamento do Circuito no YouTube:
